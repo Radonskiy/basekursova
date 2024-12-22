@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\panelmanagegroup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\panelmanagegroup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\panelmanagepayments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\panelmanagepayments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\panelmanageevents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\panelmanageevents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\panelmanagegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\panelmanagegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\panelmanagegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\panelmanagegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\panelmanagepayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\panelmanagepayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\panelmanagepayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\panelmanagepayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\panelmanageevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\panelmanageevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\panelmanageevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\panelmanageevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\paneladdgroup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdgroup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\paneladdeducator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdeducator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|d:\\coding\\visual studio\\vs projects\\childrengardeninterface\\usercontrols\\paneladdchild.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdchild.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\paneladdchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\paneladdchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\paneladdparent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdparent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\paneladdparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\paneladdparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\resources\\styles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:resources\\styles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\paneladdgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\paneladdgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\paneladdeducator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdeducator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\usercontrols\\paneladdeducator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:usercontrols\\paneladdeducator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\attendanceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:attendanceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ChildrenGardenInterface||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EEBBD1C2-7976-4095-A3E4-FCDE17B8D0BD}|ChildrenGardenInterface.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChildrenGardenInterface",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\ChildrenGardenInterface.csproj",
+              "RelativeDocumentMoniker": "ChildrenGardenInterface.csproj",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\ChildrenGardenInterface.csproj",
+              "RelativeToolTip": "ChildrenGardenInterface.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-22T10:32:04.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Styles.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\Resources\\Styles.cs",
+              "RelativeDocumentMoniker": "Resources\\Styles.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\Resources\\Styles.cs",
+              "RelativeToolTip": "Resources\\Styles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:15:00.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AttendanceForm.Designer.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\AttendanceForm.Designer.cs",
+              "RelativeDocumentMoniker": "AttendanceForm.Designer.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\AttendanceForm.Designer.cs",
+              "RelativeToolTip": "AttendanceForm.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwEgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:51:19.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AttendanceForm.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\AttendanceForm.cs",
+              "RelativeDocumentMoniker": "AttendanceForm.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\AttendanceForm.cs",
+              "RelativeToolTip": "AttendanceForm.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwDUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:51:12.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AttendanceForm.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\AttendanceForm.cs",
+              "RelativeDocumentMoniker": "AttendanceForm.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\AttendanceForm.cs [Design]",
+              "RelativeToolTip": "AttendanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:51:10.075Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PanelManageGroup.Designer.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageGroup.Designer.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelManageGroup.Designer.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageGroup.Designer.cs",
+              "RelativeToolTip": "UserControls\\PanelManageGroup.Designer.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAgwKgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:49:42.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PanelManageGroup.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageGroup.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelManageGroup.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageGroup.cs",
+              "RelativeToolTip": "UserControls\\PanelManageGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:49:29.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PanelManagePayments.Designer.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManagePayments.Designer.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelManagePayments.Designer.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManagePayments.Designer.cs",
+              "RelativeToolTip": "UserControls\\PanelManagePayments.Designer.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAkwIsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:49:21.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PanelManagePayments.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManagePayments.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelManagePayments.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManagePayments.cs",
+              "RelativeToolTip": "UserControls\\PanelManagePayments.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:49:14.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PanelManageEvents.Designer.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageEvents.Designer.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelManageEvents.Designer.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageEvents.Designer.cs",
+              "RelativeToolTip": "UserControls\\PanelManageEvents.Designer.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAkwJcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:47:45.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PanelManageEvents.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageEvents.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelManageEvents.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageEvents.cs",
+              "RelativeToolTip": "UserControls\\PanelManageEvents.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:47:33.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PanelAddChild.Designer.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddChild.Designer.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddChild.Designer.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddChild.Designer.cs",
+              "RelativeToolTip": "UserControls\\PanelAddChild.Designer.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAgwK8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:47:20.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PanelAddChild.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddChild.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddChild.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddChild.cs",
+              "RelativeToolTip": "UserControls\\PanelAddChild.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:47:12.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PanelAddParent.Designer.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddParent.Designer.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddParent.Designer.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddParent.Designer.cs",
+              "RelativeToolTip": "UserControls\\PanelAddParent.Designer.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAgwKQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:44:36.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PanelAddParent.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddParent.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddParent.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddParent.cs",
+              "RelativeToolTip": "UserControls\\PanelAddParent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:44:26.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ComboBoxItem.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\ComboBoxItem.cs",
+              "RelativeDocumentMoniker": "ComboBoxItem.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\ComboBoxItem.cs",
+              "RelativeToolTip": "ComboBoxItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:44:10.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PanelAddGroup.Designer.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddGroup.Designer.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddGroup.Designer.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddGroup.Designer.cs",
+              "RelativeToolTip": "UserControls\\PanelAddGroup.Designer.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAgwIwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:43:32.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PanelAddGroup.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddGroup.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddGroup.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddGroup.cs",
+              "RelativeToolTip": "UserControls\\PanelAddGroup.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:43:24.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PanelAddEducator.Designer.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddEducator.Designer.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddEducator.Designer.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddEducator.Designer.cs",
+              "RelativeToolTip": "UserControls\\PanelAddEducator.Designer.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAgwKgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:41:46.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PanelManageGroup.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageGroup.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelManageGroup.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageGroup.cs [Design]",
+              "RelativeToolTip": "UserControls\\PanelManageGroup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:41:34.6Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PanelManagePayments.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManagePayments.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelManagePayments.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManagePayments.cs [Design]",
+              "RelativeToolTip": "UserControls\\PanelManagePayments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:41:23.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PanelManageEvents.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageEvents.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelManageEvents.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelManageEvents.cs [Design]",
+              "RelativeToolTip": "UserControls\\PanelManageEvents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:41:15.561Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PanelAddChild.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddChild.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddChild.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddChild.cs [Design]",
+              "RelativeToolTip": "UserControls\\PanelAddChild.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:41:05.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PanelAddParent.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddParent.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddParent.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddParent.cs [Design]",
+              "RelativeToolTip": "UserControls\\PanelAddParent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:40:53.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PanelAddGroup.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddGroup.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddGroup.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddGroup.cs [Design]",
+              "RelativeToolTip": "UserControls\\PanelAddGroup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:40:43.415Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PanelAddEducator.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddEducator.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddEducator.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddEducator.cs",
+              "RelativeToolTip": "UserControls\\PanelAddEducator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:38:43.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PanelAddEducator.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddEducator.cs",
+              "RelativeDocumentMoniker": "UserControls\\PanelAddEducator.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\UserControls\\PanelAddEducator.cs [Design]",
+              "RelativeToolTip": "UserControls\\PanelAddEducator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:38:38.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAMwJoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:25:55.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:25:44.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwGAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:23:54.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:23:13.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Models.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\Models.cs",
+              "RelativeDocumentMoniker": "Models.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\Models.cs",
+              "RelativeToolTip": "Models.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwDsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:23:02.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:18:37.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Coding\\Visual Studio\\VS projects\\ChildrenGardenInterface\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-22T08:18:34.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
